@@ -118,24 +118,26 @@ To configure users we go to
 </p>
 <br />
 
-<h2>Configuring Teams</h2>
+<h2>Configuring SLAs</h2>
 
 
 <p>
-<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/165e5363-c18e-4355-814f-f40a44a168bb">
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/b37bc4cc-600b-4c27-a298-3edb51e45e1f">
 
 </p>
 <p>
-To configure teams we go to
+To configure SLAs we go to
   
-1. Agent Panel
-2. Agents
-3. Teams
-4. Create a team named "Level II Support"
+1. Admin Panel
+2. Manage
+3. SLA
+4. We're going to create three SLAs
+
+
 </p>
 <br />
 
-<h2>Configuring Teams</h2>
+<h2>Configuring Help Topics</h2>
 
 
 <p>
@@ -143,7 +145,7 @@ To configure teams we go to
 
 </p>
 <p>
-To configure teams we go to
+To configure help topics we go to
   
 1. Agent Panel
 2. Agents

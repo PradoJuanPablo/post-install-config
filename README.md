@@ -132,6 +132,11 @@ To configure SLAs we go to
 2. Manage
 3. SLA
 4. We're going to create three SLAs
+   
+- SEV-A (1 hour, 24/7)
+- SEV-B (4 hours, 24/7)
+- SEV-C (8 hours, business hours)
+
 
 
 </p>

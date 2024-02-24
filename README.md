@@ -79,3 +79,74 @@ To configure teams we go to
 4. Create a team named "Level II Support"
 </p>
 <br />
+
+<h2>Configuring Agents</h2>
+
+
+<p>
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/1cfd0ceb-5d6a-4b66-8819-935ff9dfc383">
+
+
+</p>
+<p>
+To configure agents we go to
+  
+1. Agent Panel
+2. Agents
+3. Add New Agent
+
+Here, we can also set what kind of permissions they have and what department they belong to.
+   
+</p>
+<br />
+
+<h2>Configuring Teams</h2>
+
+
+<p>
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/165e5363-c18e-4355-814f-f40a44a168bb">
+
+</p>
+<p>
+To configure teams we go to
+  
+1. Agent Panel
+2. Agents
+3. Teams
+4. Create a team named "Level II Support"
+</p>
+<br />
+
+<h2>Configuring Teams</h2>
+
+
+<p>
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/165e5363-c18e-4355-814f-f40a44a168bb">
+
+</p>
+<p>
+To configure teams we go to
+  
+1. Agent Panel
+2. Agents
+3. Teams
+4. Create a team named "Level II Support"
+</p>
+<br />
+
+<h2>Configuring Teams</h2>
+
+
+<p>
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/165e5363-c18e-4355-814f-f40a44a168bb">
+
+</p>
+<p>
+To configure teams we go to
+  
+1. Agent Panel
+2. Agents
+3. Teams
+4. Create a team named "Level II Support"
+</p>
+<br />

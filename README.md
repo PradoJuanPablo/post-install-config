@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 First, we're going to create a Supreme Admin role and set its permissions to have complete control. 
 
 To do that we go to 
-1. Agent Panel
+1. Admin Panel
 2. Agents
 3. Roles
 4. Create a role called "Supreme Admin"
@@ -57,7 +57,7 @@ To do that we go to
 <p>
 To configure departments we go to
   
-1. Agent Panel
+1. Admin Panel
 2. Agents
 3. Departments
 4. Create a department called "System Administrators"
@@ -73,7 +73,7 @@ To configure departments we go to
 <p>
 To configure teams we go to
   
-1. Agent Panel
+1. Admin Panel
 2. Agents
 3. Teams
 4. Create a team named "Level II Support"
@@ -91,7 +91,7 @@ To configure teams we go to
 <p>
 To configure agents we go to
   
-1. Agent Panel
+1. Admin Panel
 2. Agents
 3. Add New Agent
 
@@ -100,20 +100,21 @@ Here, we can also set what kind of permissions they have and what department the
 </p>
 <br />
 
-<h2>Configuring Teams</h2>
+<h2>Configuring Users</h2>
 
 
 <p>
-<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/165e5363-c18e-4355-814f-f40a44a168bb">
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/0ae89240-e1e8-4c61-ab5f-673c17735bd1">
+
 
 </p>
 <p>
-To configure teams we go to
+To configure users we go to
   
 1. Agent Panel
-2. Agents
-3. Teams
-4. Create a team named "Level II Support"
+2. Users
+3. Add New Users
+
 </p>
 <br />
 

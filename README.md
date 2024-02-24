@@ -43,7 +43,7 @@ To do that we go to
 1. Agent Panel
 2. Agents
 3. Roles
-4. Supreme Admin
+4. Create a role called "Supreme Admin"
 </p>
 <br />
 
@@ -55,19 +55,27 @@ To do that we go to
 
 </p>
 <p>
-Too configure departments we go to
+To configure departments we go to
   
 1. Agent Panel
 2. Agents
 3. Departments
-4. System Administrators
+4. Create a department called "System Administrators"
 
 <br />
+<h2>Configuring Teams</h2>
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/165e5363-c18e-4355-814f-f40a44a168bb">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To configure teams we go to
+  
+1. Agent Panel
+2. Agents
+3. Teams
+4. Create a team named "Level II Support"
 </p>
 <br />

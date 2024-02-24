@@ -26,7 +26,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLAs
 - Configure Help Topics
 
-<h2>Configuration Steps</h2>
+
+<h2>Configuring Roles</h2>
 
 <p>
 <img width="720" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/113d156b-c4f7-40be-9ef1-e5e6349d3972">
@@ -46,12 +47,21 @@ To do that we go to
 </p>
 <br />
 
+<h2>Configuring Departments</h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="650" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/8587ab8c-cd8f-4ff7-bde4-f92cf77d911e">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Too configure departments we go to
+  
+1. Agent Panel
+2. Agents
+3. Departments
+4. System Administrators
+
 <br />
 
 <p>

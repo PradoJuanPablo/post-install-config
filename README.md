@@ -146,15 +146,22 @@ To configure SLAs we go to
 
 
 <p>
-<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/165e5363-c18e-4355-814f-f40a44a168bb">
+<img width="719" alt="image" src="https://github.com/PradoJuanPablo/post-install-config/assets/160810181/64398a28-8c60-456d-80ac-3d27cb1c1aef">
+
 
 </p>
 <p>
 To configure help topics we go to
   
-1. Agent Panel
-2. Agents
-3. Teams
-4. Create a team named "Level II Support"
+1. Admin Panel
+2. Manage
+3. Help Topics
+4. We're going to create four help topics
+   
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+   
 </p>
 <br />
